@@ -1,13 +1,13 @@
 SocketIO2Unity
 ==============
 
-## About
+### About
 
 This flow provides an example of using Node-Red to establish real time communication with a client application using Socket.IO.
 
 In this example Node-Red polls WeatherUnderground and uses Socket.IO to transmit received events in real-time to the intended client application such as the Unity game engine. To use the Weather Underground node the user will need an API key from the [Weather Underground API](https://www.wunderground.com/weather/api) site.
 
-## Setup
+### Setup
 
 The Socket.IO node has been configured to communicate on port `3000` with an input path of `/socket.io`.
 
