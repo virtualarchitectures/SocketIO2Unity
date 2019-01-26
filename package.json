@@ -1,6 +1,6 @@
 {
     "name": "SocketIO2Unity",
-    "description": "A Node-RED Project",
+    "description": "A Node-RED flow for establishing real-time via Socket.IO",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
